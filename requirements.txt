@@ -1,0 +1,7 @@
+flask_table
+flask_cors
+flask_sslify
+flask
+ibm-watson
+ibm_cloud_sdk_core
+watson-developer-cloud
